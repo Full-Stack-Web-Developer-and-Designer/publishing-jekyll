@@ -1,0 +1,1 @@
+![Stargazers logo](images/logo_stargazers_bug.svg)
